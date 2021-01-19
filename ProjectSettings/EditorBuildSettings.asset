@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/BNG Framework/Scenes/XR Demo.unity
+    guid: a1360534006d3f845bc79b46b93cfec5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/MainMenu.unity
+    guid: e1f30b929d0ca5244a9dad854f2e6f45
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 1.unity
+    guid: 61756693b1025694098c39690144c9e1
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 2.unity
+    guid: 45278632025b64d4ba225d4ec8351cb9
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 3.unity
+    guid: c411e084294b8b94ca3f80f0d8895012
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/level 4.unity
+    guid: 77f33831c6970b2419895fc07fd62372
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 5.unity
+    guid: dac550a54e4411d4bba6e42be0b94315
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 6.unity
+    guid: 62456eb912795b440a370624eefeb887
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 8.unity
+    guid: 92a94cc33e64477458fbe13cc60c340c
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 7.unity
+    guid: 3088767909bd6314a93bdfba52855b05
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 9.unity
+    guid: 89f9c02d05695c5499b0c23370f2be8c
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/SettingsMenu.unity
+    guid: 96ff699a0037f1543b7da07275c1ccbd
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/PlayMenu.unity
+    guid: 9287507ef0494c14bb05c9cf9e1bcd22
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/LevelMenu.unity
+    guid: 418756796c1c7bf49b33d41151a1be0b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b3ac24369c63cb246976bcaf96adab11,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2ec24d39f7b5ac84aad7e5df7b4fd3ea,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c0090d68293ae82439bf31385cb04d54,
+      type: 2}
